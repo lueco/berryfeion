@@ -1,5 +1,5 @@
 <?php
-require '/lib/PHPFetion.php';
+require './lib/PHPFetion.php';
 $phone = $_GET["phone"];
 $pwd = $_GET["pwd"];
 $to = $_GET["to"];
